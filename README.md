@@ -131,8 +131,7 @@ Please read before using SkillForge:
 
 ## 📜 License
 
-Released under the [MIT License](LICENSE). *(Add a `LICENSE` file when you're ready.)*
-
+Released under the [MIT License](LICENSE). 
 ---
 
 ## 👋 Author
