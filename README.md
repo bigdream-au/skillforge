@@ -96,7 +96,6 @@ SUPABASE_SERVICE_ROLE_KEY=   # server only, never expose to the browser
 GEMINI_API_KEY=              # or the key for your chosen AI provider
 ```
 
-> ⚠️ Never commit `.env.local` or share your service role key.
 
 ---
 
